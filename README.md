@@ -9,7 +9,7 @@ This is the repository for the 2023 Seasons of Code Project "Hands on Reinforcem
 - Prerak Contractor
 - Sankalp Bhamare
 
-##What I have leaarned
+## What I have leaarned
 
 I have not been able to get much time due to endsem. Shortly after endsem, I had gone to village and it was very busy there with minimal internet connection.
 Also I had SOS and learner space courses.
